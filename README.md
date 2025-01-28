@@ -1,4 +1,4 @@
-# Gesture-Controlled Car
+# Gesture-Controlled RC-Car
 [Demo Video Here](https://drive.google.com/file/d/1jCBjBCmazpqCxpNRv6A-RS74yoz4e5Lp/view?usp=sharing)
 
 ## Overview
